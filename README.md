@@ -18,7 +18,7 @@ The main purpose of this application is to provide users with a straightforward 
 ## 🌐 Access the Application
 
 You can access the deployed application here:  
-[https://your-app-url.com](https://your-app-url.com)  
+[https://your-app-url.com](https://stately-moonbeam-e69437.netlify.app/)  
 *(Replace with your actual deployment URL)*
 
 ## 🚀 Getting Started Locally
